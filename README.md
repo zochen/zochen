@@ -1,5 +1,5 @@
 ## Hello! I'm Zoey, a full-stack developer and designer and a 1st-year Computer Science & Engineering student at UC Irvine.
-Welcome to my Github profile. I love computer science and designing! I'm on a journey to find where my ideas intersect with the real world and where I can make a change.
+Welcome to my Github profile. I love computer science and designing! I'm on a journey to find where and how my ideas can make a change.
 <!--
 **zochen/zochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
